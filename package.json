@@ -26,10 +26,11 @@
     "method-override": "^3.0.0",
     "moment": "^2.29.1",
     "morgan": "^1.10.0",
-    "node-sass": "^7.0.1",
-    "passport": "^0.5.2",
+    "node-sass": "^9.0.0",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "prisma": "^3.9.1",
+    "railway": "^2.0.17",
     "yup": "^0.32.11"
   },
   "devDependencies": {

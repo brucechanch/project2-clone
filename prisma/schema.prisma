@@ -11,5 +11,10 @@ datasource db {
 }
 
 model User {
+  id   Int    @id @default(autoincrement())
+  name String @unique
+}
+
+model tweet {
   id Int @id @default(autoincrement())
 }
